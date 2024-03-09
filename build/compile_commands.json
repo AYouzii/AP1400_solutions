@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/data/cppLearning/exercises/AP1400-2-HW1/build",
+  "command": "D:\\software\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c D:\\data\\cppLearning\\exercises\\AP1400-2-HW1\\src\\main.cpp",
+  "file": "D:/data/cppLearning/exercises/AP1400-2-HW1/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/data/cppLearning/exercises/AP1400-2-HW1/build",
+  "command": "D:\\software\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\hw1.cpp.obj -c D:\\data\\cppLearning\\exercises\\AP1400-2-HW1\\src\\hw1.cpp",
+  "file": "D:/data/cppLearning/exercises/AP1400-2-HW1/src/hw1.cpp",
+  "output": "CMakeFiles/main.dir/src/hw1.cpp.obj"
+},
+{
+  "directory": "D:/data/cppLearning/exercises/AP1400-2-HW1/build",
+  "command": "D:\\software\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\unit_test.cpp.obj -c D:\\data\\cppLearning\\exercises\\AP1400-2-HW1\\src\\unit_test.cpp",
+  "file": "D:/data/cppLearning/exercises/AP1400-2-HW1/src/unit_test.cpp",
+  "output": "CMakeFiles/main.dir/src/unit_test.cpp.obj"
+}
+]
