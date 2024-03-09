@@ -1,0 +1,3 @@
+D:/data/cppLearning/exercises/AP1400-2-HW1/build/CMakeFiles/main.dir
+D:/data/cppLearning/exercises/AP1400-2-HW1/build/CMakeFiles/edit_cache.dir
+D:/data/cppLearning/exercises/AP1400-2-HW1/build/CMakeFiles/rebuild_cache.dir
