@@ -1,3 +1,5 @@
+# Note: You may need to change the path of opendssl libs.
+
 obj_path = ./objects
 obj_files = $(patsubst %.cpp, ./objects/%.o, $(notdir $(wildcard ./src/*.cpp)))
 
