@@ -6,3 +6,5 @@ All the tests except TEST15 have passed. The design of the TEST15 may be a bit u
 ## Exercise 4 completed
 ## Exercise 5 completed
 I did not use GUI to complete the last test, so it may look very ugly...
+## Exercise 6 completed
+# Finished!
